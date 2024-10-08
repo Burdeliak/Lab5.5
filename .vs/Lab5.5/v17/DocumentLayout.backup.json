@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A259641-B716-44AE-8242-01285D32A6C1}|Lab5.5\\Lab5.5.vcxproj|C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\Lab5.5\\lab5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A259641-B716-44AE-8242-01285D32A6C1}|Lab5.5\\Lab5.5.vcxproj|solutionrelative:Lab5.5\\lab5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50979ACF-5987-4631-AC17-1BDE667FDF80}|UnitTest5.5\\UnitTest5.5.vcxproj|C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\UnitTest5.5\\UnitTest5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50979ACF-5987-4631-AC17-1BDE667FDF80}|UnitTest5.5\\UnitTest5.5.vcxproj|solutionrelative:UnitTest5.5\\UnitTest5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.5.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\UnitTest5.5\\UnitTest5.5.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.5\\UnitTest5.5.cpp",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\UnitTest5.5\\UnitTest5.5.cpp",
+              "RelativeToolTip": "UnitTest5.5\\UnitTest5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:58:54.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab5.5.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\Lab5.5\\lab5.5.cpp",
+              "RelativeDocumentMoniker": "Lab5.5\\lab5.5.cpp",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\Lab5.5\\Lab5.5\\lab5.5.cpp",
+              "RelativeToolTip": "Lab5.5\\lab5.5.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:55:00.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
